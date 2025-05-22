@@ -1,0 +1,7 @@
+<meta>
+    <info author="lark" version="1.0" type="script" name="Player ID System" />
+    <script src="server.lua" type="server" />
+    <export function="getPlayerID" type="server" />
+    <export function="getID" type="server" />
+
+</meta>
